@@ -30,9 +30,9 @@ You can launch the process with the following command on a Linux machine:
 
 ## Following is some of the results of the benchmark that demonstrates the behavior of several uplift methods when facing NRA bias :
 <p float="left">
-  <img src="https://github.com/MinaWagdi/UpliftModelingWithNRABias/blob/main/FigResults/Figs/Criteo_f2.png" width="310" />
-  <img src="https://github.com/MinaWagdi/UpliftModelingWithNRABias/blob/main/FigResults/Figs/Criteo_f2'.png" width="310" /> 
-  <img src="https://github.com/MinaWagdi/UpliftModelingWithNRABias/blob/main/FigResults/Figs/Criteo_f8'.png" width="310" />
+  <img src="https://github.com/MinaWagdi/UpliftModelingWithNRABias/blob/main/FigResults/Figs/Criteo_f2.png" width="300" />
+  <img src="https://github.com/MinaWagdi/UpliftModelingWithNRABias/blob/main/FigResults/Figs/Criteo_f2'.png" width="300" /> 
+  <img src="https://github.com/MinaWagdi/UpliftModelingWithNRABias/blob/main/FigResults/Figs/Criteo_f8'.png" width="300" />
 </p>
 
 <p float="left">
