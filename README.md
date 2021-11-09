@@ -9,7 +9,7 @@ To execute the bias generation process with a dataset:
 1- The treatment and output columns should be binary (0 and 1) named respectiveley : 'segment' and 'visit' <br />
 2- Datasets should be discretized <br />
 
-You can launch the process with the following command:
+You can launch the process with the following command on a Linux machine:
 
 #### (For the bias generation process without domain adaptation for samples reweighting): <br />
 
