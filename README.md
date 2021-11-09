@@ -72,8 +72,8 @@ You can launch the process with the following command on a Linux machine:
 </p>
 
 <p float="left">
-  <img src="https://github.com/MinaWagdi/UpliftModelingWithNRABias/blob/main/FigResults/Figs/verysmallRateYNoisyv2__Comb2.png" width="310" />
-  <img src="https://github.com/MinaWagdi/UpliftModelingWithNRABias/blob/main/FigResults/Figs/verysmallRateYNoisyv2_prime_Comb2.png" width="310" /> 
+  <img src="https://github.com/MinaWagdi/UpliftModelingWithNRABias/blob/main/FigResults/Figs/Synth1.png" width="310" />
+  <img src="https://github.com/MinaWagdi/UpliftModelingWithNRABias/blob/main/FigResults/Figs/Synth1'.png" width="310" /> 
   <img src="https://github.com/MinaWagdi/UpliftModelingWithNRABias/blob/main/FigResults/Figs/zenodoSynth_X10'.png" width="310" />
 </p>
 <p float="left">
