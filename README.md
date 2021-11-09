@@ -6,7 +6,7 @@ You can find the code used to 1- generate biased samples     2- Treatment group 
 
 To execute the bias generation process with a dataset:
 
-1- The treatment and output columns should be binary (0 and 1) named respectiveley : 'segment' and 'visit' <br />
+1- The treatment and output columns should be binary (0 and 1) and named respectively : 'segment' and 'visit' <br />
 2- Datasets should be discretized <br />
 
 You can launch the process with the following command on a Linux machine:
