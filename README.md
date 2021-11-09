@@ -82,7 +82,7 @@ You can launch the process with the following command on a Linux machine:
   <img src="https://github.com/MinaWagdi/UpliftModelingWithNRABias/blob/main/FigResults/Figs/zenodoSynth_X31.png" width="310" />
 </p>
 
-Following is the table of the results 
+Following is the table of all the results with different combinations (More info are present in the article) :
 
 | {}                 | 2M_Xgboost         | CT_Xgboost | 2M_LR               | CT_LR | KL                  | ED                  | CTS       | Chi                 |
 |--------------------|---------------------|-------------|--------------------|---------------------|---------------------|---------------------|-----------|---------------------|
