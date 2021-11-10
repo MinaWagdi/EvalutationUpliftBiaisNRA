@@ -28,6 +28,8 @@ You can launch the process with the following command on a Linux machine:
 7- CT_Xgboost (Class Transformation Approach with Xgboost) <br />
 8- Class Transformation (Class Transformation with Logistic Regression) <br />
 
+#### For the *VAR_Name* you can use the variable name as it appears in the data, or to use "Comb" in order to generate bias using all the variables in the dataset
+
 ## Following is some of the results of the benchmark that demonstrates the behavior of several uplift methods when facing NRA bias :
 <p float="left">
   <img src="https://github.com/MinaWagdi/UpliftModelingWithNRABias/blob/main/FigResults/Figs/Criteo_f2.png" width="310" />
